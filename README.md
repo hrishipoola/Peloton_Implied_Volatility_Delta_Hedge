@@ -2,8 +2,6 @@
 
 ## Introduction 
 
-## 1. Introduction
-
 Today, let's dig into Peloton (ticker: PTON). The purpose of this post is to:
 - Forecast PTON's volatility at a point in the future by calculating its [implied volatility](https://www.investopedia.com/terms/i/iv.asp)
 - Understand its option price sensitivities through the [Greeks](https://www.investopedia.com/trading/using-the-greeks-to-understand-options/) 
